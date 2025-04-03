@@ -5,7 +5,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <h1>Welcome to ReactJS CI/CD Jenkins Pipeline World!</h1>
-        <h2>Hello World!</h2>
+        <h2>Hello Testing World!</h2>
       </header>
     </div>
   );
